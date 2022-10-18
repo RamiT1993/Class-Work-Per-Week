@@ -1,8 +1,11 @@
 # Classwork                                                            
+<b>
 
-## C++ Course
+## CPP Course
 
-### Week 1
+<b>
+ 
+#### Week 1
 - [x] Bio
 - [x] DQ - Git Jobs
 - [x] Intro to Github
@@ -10,27 +13,29 @@
 - [ ] Programming Assignment
 - [ ] Week 01: Quick - Chapter 1&2
 
-### Week 2
+#### Week 2
 
-### Week 3
+#### Week 3
 
-### Week 4
+#### Week 4
 
-### Week 5
+#### Week 5
 
-### Week 6
+#### Week 6
 
-### Week 7
+#### Week 7
 
-### Week 8
-
-
+#### Week 8
 
 
 
+
+<b>
 
 ## HTML Course
 
+<b>
+  
 ### Week 1 - [ ] done?
   - [ ] - DQ - Initial Response by wednesday while reply due sunday
   - [ ] - Homework 1
