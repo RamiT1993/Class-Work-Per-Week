@@ -11,7 +11,7 @@
 - [x] Intro to Github
 - [x] Communicate using Markdown
 - [x] Programming Assignment
-- [ ] Week 01: Quick - Chapter 1&2
+- [x] Week 01: Quick - Chapter 1&2
 
 #### Week 2
 
