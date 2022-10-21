@@ -39,7 +39,7 @@
 ### Week 1 - [ ] done?
   - [x] - DQ - Initial Response by wednesday while reply due sunday
   - [x] - Homework 1
-  - [ ] - Quiz Chapter 1 and 2
+  - [x] - Quiz Chapter 1 and 2
 
 ### Week 2 - [ ] done?
 
