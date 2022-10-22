@@ -5,7 +5,7 @@
 
 <b>
  
-#### Week 1
+#### Week 1 - [x] Done?
 - [x] Bio
 - [x] DQ - Git Jobs
 - [x] Intro to Github
@@ -36,7 +36,7 @@
 
 <b>
   
-### Week 1 - [ ] done?
+### Week 1 - [x] done?
   - [x] - DQ - Initial Response Due Wednesday
   - [x] - DQ - Reply Response Due Sunday
   - [x] - Homework 1
