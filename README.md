@@ -43,7 +43,7 @@
   - [x] - Quiz Chapter 1 and 2
 
 ### Week 2
-  - [ ] - DQ - Initial Response Due Wednesday
+  - [x] - DQ - Initial Response Due Wednesday
   - [ ] - DQ - Reply Response Due Sunday
   - [ ] - Homework #2
   - [ ] - Quiz - Chapter 4
