@@ -14,6 +14,11 @@
 - [x] Week 01: Quick - Chapter 1&2
 
 #### Week 2
+- [ ] - Initial DQ Due Wednesday
+- [ ] - DQ Response Due Saturday
+- [ ] - GitHub Skills - Review Pull Requests Due Sunday
+- [ ] - Programming Assignment #2
+- [ ] - Quiz #2
 
 #### Week 3
 
