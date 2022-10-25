@@ -49,7 +49,7 @@
 
 ### Week 2
   - [x] - DQ - Initial Response Due Wednesday
-  - [ ] - DQ - Reply Response Due Sunday
+  - [x] - DQ - Reply Response Due Sunday
   - [ ] - Homework #2
   - [ ] - Quiz - Chapter 4
 
