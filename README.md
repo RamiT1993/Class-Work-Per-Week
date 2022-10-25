@@ -16,7 +16,7 @@
 #### Week 2
 - [ ] - Initial DQ Due Wednesday
 - [ ] - DQ Response Due Saturday
-- [ ] - GitHub Skills - Review Pull Requests Due Sunday
+- [x] - GitHub Skills - Review Pull Requests Due Sunday
 - [ ] - Programming Assignment #2
 - [ ] - Quiz #2
 
