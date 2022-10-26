@@ -17,7 +17,7 @@
 - [x] - Initial DQ Due Wednesday
 - [x] - DQ Response Due Saturday
 - [x] - GitHub Skills - Review Pull Requests Due Sunday
-- [ ] - Programming Assignment #2
+- [x] - Programming Assignment #2
 - [ ] - Quiz #2
 
 #### Week 3
