@@ -18,7 +18,7 @@
 - [x] - DQ Response Due Saturday
 - [x] - GitHub Skills - Review Pull Requests Due Sunday
 - [x] - Programming Assignment #2
-- [ ] - Quiz #2
+- [x] - Quiz #2
 
 #### Week 3
 
@@ -51,7 +51,7 @@
   - [x] - DQ - Initial Response Due Wednesday
   - [x] - DQ - Reply Response Due Sunday
   - [x] - Homework #2
-  - [ ] - Quiz - Chapter 4
+  - [x] - Quiz - Chapter 4
 
 ### Week 3 - [ ] done?
 
