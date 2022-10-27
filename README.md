@@ -41,34 +41,34 @@
 
 <b>
   
-### Week 1
+#### Week 1
   - [x] - DQ - Initial Response Due Wednesday
   - [x] - DQ - Reply Response Due Sunday
   - [x] - Homework 1
   - [x] - Quiz Chapter 1 and 2
 
-### Week 2
+#### Week 2
   - [x] - DQ - Initial Response Due Wednesday
   - [x] - DQ - Reply Response Due Sunday
   - [x] - Homework #2
   - [x] - Quiz - Chapter 4
 
-### Week 3 - [ ] done?
+#### Week 3 - [ ] done?
 
 
-### Week 4 - [ ] done?
+#### Week 4 - [ ] done?
 
 
-### Week 5 - [ ] done?
+#### Week 5 - [ ] done?
 
 
-### Week 6 - [ ] done?
+#### Week 6 - [ ] done?
 
 
-### Week 7 - [ ] done?
+#### Week 7 - [ ] done?
 
 
-### Week 8 - [ ] done?
+#### Week 8 - [ ] done?
 
 
 
