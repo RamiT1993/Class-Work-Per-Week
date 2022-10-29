@@ -21,17 +21,29 @@
 - [x] - Quiz #2
 
 #### Week 3
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Saturday
 
 #### Week 4
-
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Saturday
+ 
 #### Week 5
-
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Saturday
+ 
 #### Week 6
-
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Saturday
+ 
 #### Week 7
-
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Saturday
+ 
 #### Week 8
-
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Saturday
+ 
 
 
 
@@ -54,21 +66,37 @@
   - [x] - Quiz - Chapter 4
 
 #### Week 3 - [ ] done?
+ - [x] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Sunday
+ - [ ] - Homework #3
+ - [ ] - Quiz - Chapter 8 & 11
 
 
 #### Week 4 - [ ] done?
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Sunday
+ - [ ] - Homework #4
+ - [ ] - Midterm 
 
 
 #### Week 5 - [ ] done?
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Sunday
 
 
 #### Week 6 - [ ] done?
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Sunday
 
 
 #### Week 7 - [ ] done?
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Sunday
 
 
 #### Week 8 - [ ] done?
+ - [ ] - DQ - Initial Response Due Wednesday
+ - [ ] - DQ - Reply Response Due Sunday
 
 
 
