@@ -66,7 +66,7 @@
   - [x] - Homework #2
   - [x] - Quiz - Chapter 4
 
-#### Week 3 - [ ] done?
+#### Week 3 
  - [x] - DQ - Initial Response Due Wednesday
  - [x] - DQ - Reply Response Due Sunday
  - [x] - Homework #3
