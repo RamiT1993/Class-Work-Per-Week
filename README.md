@@ -10,7 +10,7 @@
 - [x] DQ - Git Jobs
 - [x] Intro to Github
 - [x] Communicate using Markdown
-- [x] Programming Assignment
+- [x] Programming Assignment #1
 - [x] Week 01: Quick - Chapter 1&2
 
 #### Week 2
@@ -21,8 +21,9 @@
 - [x] - Quiz #2
 
 #### Week 3
- - [ ] - DQ - Initial Response Due Wednesday
- - [ ] - DQ - Reply Response Due Saturday
+ - [ ] - Programming Assignment #3
+ - [ ] - Programming Assignment #4
+ - [ ] - Quiz #3
 
 #### Week 4
  - [ ] - DQ - Initial Response Due Wednesday
@@ -67,7 +68,7 @@
 
 #### Week 3 - [ ] done?
  - [x] - DQ - Initial Response Due Wednesday
- - [ ] - DQ - Reply Response Due Sunday
+ - [x] - DQ - Reply Response Due Sunday
  - [ ] - Homework #3
  - [ ] - Quiz - Chapter 8 & 11
 
