@@ -23,7 +23,7 @@
 #### Week 3
  - [ ] - Programming Assignment #3
  - [ ] - Programming Assignment #4
- - [ ] - Quiz #3
+ - [x] - Quiz #3
 
 #### Week 4
  - [ ] - DQ - Initial Response Due Wednesday
