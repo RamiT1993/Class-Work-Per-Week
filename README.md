@@ -70,7 +70,7 @@
  - [x] - DQ - Initial Response Due Wednesday
  - [x] - DQ - Reply Response Due Sunday
  - [ ] - Homework #3
- - [ ] - Quiz - Chapter 8 & 11
+ - [x] - Quiz - Chapter 8 & 11
 
 
 #### Week 4 - [ ] done?
