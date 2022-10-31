@@ -69,7 +69,7 @@
 #### Week 3 - [ ] done?
  - [x] - DQ - Initial Response Due Wednesday
  - [x] - DQ - Reply Response Due Sunday
- - [ ] - Homework #3
+ - [x] - Homework #3
  - [x] - Quiz - Chapter 8 & 11
 
 
