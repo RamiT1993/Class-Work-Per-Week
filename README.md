@@ -21,8 +21,8 @@
 - [x] - Quiz #2
 
 #### Week 3
- - [ ] - Programming Assignment #3
- - [ ] - Programming Assignment #4
+ - [x] - Programming Assignment #3
+ - [x] - Programming Assignment #4
  - [x] - Quiz #3
 
 #### Week 4
