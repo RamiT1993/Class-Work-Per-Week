@@ -74,7 +74,7 @@
 
 
 #### Week 4 - [ ] done?
- - [ ] - DQ - Initial Response Due Wednesday
+ - [x] - DQ - Initial Response Due Wednesday
  - [ ] - DQ - Reply Response Due Sunday
  - [ ] - Homework #4
  - [ ] - Midterm 
