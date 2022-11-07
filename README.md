@@ -26,7 +26,7 @@
  - [x] - Quiz - Chapter 4
 
 #### Week 4
- - [ ] - DQ - Initial Response Due Wednesday
+ - [x] - DQ - Initial Response Due Friday
  - [ ] - DQ - Reply Response Due Saturday
  - [ ] - Programming Assignment #5
  - [ ] - Quiz - Chapter 5
