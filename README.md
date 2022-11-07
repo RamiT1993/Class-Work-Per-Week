@@ -18,16 +18,18 @@
 - [x] - DQ Response Due Saturday
 - [x] - GitHub Skills - Review Pull Requests Due Sunday
 - [x] - Programming Assignment #2
-- [x] - Quiz #2
+- [x] - Quiz - Chapter 3
 
 #### Week 3
  - [x] - Programming Assignment #3
  - [x] - Programming Assignment #4
- - [x] - Quiz #3
+ - [x] - Quiz - Chapter 4
 
 #### Week 4
  - [ ] - DQ - Initial Response Due Wednesday
  - [ ] - DQ - Reply Response Due Saturday
+ - [ ] - Programming Assignment #5
+ - [ ] - Quiz - Chapter 5
  
 #### Week 5
  - [ ] - DQ - Initial Response Due Wednesday
