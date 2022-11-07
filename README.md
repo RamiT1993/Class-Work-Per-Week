@@ -29,7 +29,7 @@
  - [x] - DQ - Initial Response Due Friday
  - [ ] - DQ - Reply Response Due Saturday
  - [ ] - Programming Assignment #5
- - [ ] - Quiz - Chapter 5
+ - [x] - Quiz - Chapter 5
  
 #### Week 5
  - [ ] - DQ - Initial Response Due Wednesday
