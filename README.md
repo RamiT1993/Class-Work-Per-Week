@@ -28,7 +28,7 @@
 #### Week 4
  - [x] - DQ - Initial Response Due Friday
  - [x] - DQ - Reply Response Due Saturday
- - [ ] - Programming Assignment #5
+ - [x] - Programming Assignment #5
  - [x] - Quiz - Chapter 5
  
 #### Week 5
