@@ -38,6 +38,7 @@
 #### Week 6
  - [ ] - DQ - Initial Response Due Wednesday
  - [ ] - DQ - Reply Response Due Saturday
+ - [ ] - Statement of Work for Final Project Due and must be approved
  
 #### Week 7
  - [ ] - DQ - Initial Response Due Wednesday
@@ -75,7 +76,7 @@
  - [x] - Quiz - Chapter 8 & 11
 
 
-#### Week 4 - [ ] done?
+#### Week 4
  - [x] - DQ - Initial Response Due Wednesday
  - [x] - DQ - Reply Response Due Sunday
  - [x] - Homework #4
@@ -83,8 +84,11 @@
 
 
 #### Week 5 - [ ] done?
- - [ ] - DQ - Initial Response Due Wednesday
+ - [x] - DQ - Initial Response Due Wednesday
  - [ ] - DQ - Reply Response Due Sunday
+ - [ ] - Homework #5
+ - [ ] - Web Project 1
+ - [x] - Module 5 Quiz
 
 
 #### Week 6 - [ ] done?
