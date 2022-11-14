@@ -34,6 +34,8 @@
 #### Week 5
  - [ ] - DQ - Initial Response Due Wednesday
  - [ ] - DQ - Reply Response Due Saturday
+ - [ ] - Programming Assignment Week 5
+ - [x] - Quiz - Chapter 6
  
 #### Week 6
  - [ ] - DQ - Initial Response Due Wednesday
