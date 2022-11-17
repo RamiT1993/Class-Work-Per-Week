@@ -85,11 +85,11 @@
  - [x] - Midterm 
 
 
-#### Week 5 - [ ] done?
+#### Week 5
  - [x] - DQ - Initial Response Due Wednesday
  - [x] - DQ - Reply Response Due Sunday
- - [ ] - Homework #5
- - [ ] - Web Project 1
+ - [x] - Homework #5
+ - [x] - Web Project 1
  - [x] - Module 5 Quiz
 
 
