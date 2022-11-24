@@ -38,9 +38,10 @@
  - [x] - Quiz - Chapter 6
  
 #### Week 6
- - [ ] - DQ - Initial Response Due Wednesday
- - [ ] - DQ - Reply Response Due Saturday
+ - [ ] - Programming Assignment Week 6 # 1
+ - [ ] - Programming Assignment Week 6 # 2 
  - [ ] - Statement of Work for Final Project Due and must be approved
+ - [x] - Quiz - Chapter 7 & 8 
  
 #### Week 7
  - [ ] - DQ - Initial Response Due Wednesday
