@@ -40,7 +40,7 @@
 #### Week 6
  - [ ] - Programming Assignment Week 6 # 1
  - [ ] - Programming Assignment Week 6 # 2 
- - [ ] - Statement of Work for Final Project Due and must be approved
+ - [x] - Statement of Work for Final Project Due and must be approved
  - [x] - Quiz - Chapter 7 & 8 
  
 #### Week 7
