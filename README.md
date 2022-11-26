@@ -38,8 +38,8 @@
  - [x] - Quiz - Chapter 6
  
 #### Week 6
- - [ ] - Programming Assignment Week 6 # 1
- - [ ] - Programming Assignment Week 6 # 2 
+ - [x] - Programming Assignment Week 6 # 1
+ - [x] - Programming Assignment Week 6 # 2 
  - [x] - Statement of Work for Final Project Due and must be approved
  - [x] - Quiz - Chapter 7 & 8 
  
