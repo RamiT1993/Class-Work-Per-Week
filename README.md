@@ -96,7 +96,7 @@
 
 #### Week 6 - [ ] done?
  - [x] - DQ - Initial Response Due Wednesday
- - [ ] - DQ - Reply Response Due Sunday
+ - [x] - DQ - Reply Response Due Sunday
  - [ ] - Homework Week 6
  - [ ] - Project 2
  - [x] - Quiz - Week 6
