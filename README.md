@@ -94,7 +94,7 @@
  - [x] - Module 5 Quiz
 
 
-#### Week 6 - [ ] done?
+#### Week 6
  - [x] - DQ - Initial Response Due Wednesday
  - [x] - DQ - Reply Response Due Sunday
  - [x] - Homework Week 6
