@@ -103,8 +103,9 @@
 
 
 #### Week 7 - [ ] done?
- - [ ] - DQ - Initial Response Due Wednesday
- - [ ] - DQ - Reply Response Due Sunday
+ - [ ] - Homework 7
+ - [ ] - Web Project 3
+ - [x] - Quiz
 
 
 #### Week 8 - [ ] done?
