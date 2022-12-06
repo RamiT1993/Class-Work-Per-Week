@@ -102,9 +102,9 @@
  - [x] - Quiz - Week 6
 
 
-#### Week 7 - [ ] done?
- - [ ] - Homework 7
- - [ ] - Web Project 3
+#### Week 7 - 
+ - [x] - Homework 7
+ - [x] - Web Project 3
  - [x] - Quiz
 
 
