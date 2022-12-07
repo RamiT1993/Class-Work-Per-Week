@@ -109,8 +109,8 @@
 
 
 #### Week 8 - [ ] done?
- - [ ] - DQ - Initial Response Due Wednesday
- - [ ] - DQ - Reply Response Due Sunday
+ - [ ] - Web Project #4
+ - [x] - Final Exam
 
 
 
