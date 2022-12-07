@@ -44,8 +44,9 @@
  - [x] - Quiz - Chapter 7 & 8 
  
 #### Week 7
- - [ ] - DQ - Initial Response Due Wednesday
- - [ ] - DQ - Reply Response Due Saturday
+ - [x] - Prog Assignment # 7-1
+ - [ ] - Prog Assignment # 7-2
+ - [x] - Quiz - Chapter 9
  
 #### Week 8
  - [ ] - DQ - Initial Response Due Wednesday
